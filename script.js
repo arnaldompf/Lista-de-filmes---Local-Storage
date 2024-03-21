@@ -129,7 +129,7 @@ const favoritoClicado = (eventoDeClique) => {
 }
 
 /*
-Função executada para remover o filme no localStorage
+Função executada para remover o filme no localStoragee
 */
 
 function removeFromLocalStorage(id) {
